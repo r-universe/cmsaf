@@ -1,5 +1,9 @@
 [
   {
+    "package": "cmsaf",
+    "oncran": true
+  },
+  {
     "package": "cmsafvis",
     "oncran": true
   }
