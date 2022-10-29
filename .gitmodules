@@ -9,6 +9,12 @@
 	shallow = true
 	subdir = cmsaf
 	registered = true
+[submodule "cmsafops"]
+	path = cmsafops
+	url = https://github.com/cmsaf/cmsaf-r-tools
+	shallow = true
+	subdir = cmsafops
+	registered = true
 [submodule "cmsafvis"]
 	path = cmsafvis
 	url = https://github.com/cmsaf/cmsaf-r-tools

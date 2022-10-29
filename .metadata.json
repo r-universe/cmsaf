@@ -4,6 +4,10 @@
     "oncran": true
   },
   {
+    "package": "cmsafops",
+    "oncran": true
+  },
+  {
     "package": "cmsafvis",
     "oncran": true
   }
