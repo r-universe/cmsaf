@@ -1,14 +1,14 @@
 [
   {
+    "package": "cmsafvis",
+    "oncran": true
+  },
+  {
     "package": "cmsaf",
     "oncran": true
   },
   {
     "package": "cmsafops",
-    "oncran": true
-  },
-  {
-    "package": "cmsafvis",
     "oncran": true
   }
 ]
